@@ -1,0 +1,56 @@
+#include <iostream>
+
+using namespace std;
+
+struct uczen{
+    string imie;
+    int wzrost;
+
+    uczen *next;
+    uczen *pre;
+};
+int main()
+{
+    uczen *temp;
+    uczen *head = NULL;
+    char choose;
+    uczen *nowy;
+    do{
+    nowy = new uczen();
+    cout << "Podaj imie: " << endl;
+    cin >> nowy->imie;
+    cout << "Podaj wzrost: " << endl;
+    cin >> nowy->wzrost;
+    nowy->next=NULL;
+    if(head == NULL){
+        head = nowy;
+    }else{
+    temp = head;
+
+    while(temp->next != NULL){
+        temp = temp->next;
+    }
+    temp->next = nowy;
+    nowy->pre = temp;
+    }
+    cout << "Czy chcesz wprowadzi� nowy element do listy  Y/N ?";
+    cin >> choose;
+    }
+    while(choose=='y' || choose=='Y');
+    temp = head;
+    while(temp!=NULL){
+        cout << "Imie: "<< temp->imie << endl <<" Wzrost: " << temp->wzrost << endl;
+        temp=temp->next;
+    }
+    cout << endl << endl;
+    cout <<"uczniowie wyzsi od sasiadow" << endl;
+    temp = head->next;
+    while(temp->next!= NULL){
+        if((temp->wzrost > temp->next->wzrost) && (temp->wzrost>temp->pre->wzrost)){
+            cout<<temp->imie << endl << temp->wzrost << "cm" << endl;
+        }
+        temp=temp->next;
+    }
+
+    return 0;
+}
