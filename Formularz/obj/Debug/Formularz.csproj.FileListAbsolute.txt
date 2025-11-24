@@ -1,0 +1,11 @@
+C:\Users\Uczeń\Desktop\Formularz\bin\Debug\Formularz.exe.config
+C:\Users\Uczeń\Desktop\Formularz\bin\Debug\Formularz.exe
+C:\Users\Uczeń\Desktop\Formularz\bin\Debug\Formularz.pdb
+C:\Users\Uczeń\Desktop\Formularz\obj\Debug\Formularz.csproj.AssemblyReference.cache
+C:\Users\Uczeń\Desktop\Formularz\obj\Debug\Formularz.Form1.resources
+C:\Users\Uczeń\Desktop\Formularz\obj\Debug\Formularz.Properties.Resources.resources
+C:\Users\Uczeń\Desktop\Formularz\obj\Debug\Formularz.csproj.GenerateResource.cache
+C:\Users\Uczeń\Desktop\Formularz\obj\Debug\Formularz.csproj.CoreCompileInputs.cache
+C:\Users\Uczeń\Desktop\Formularz\obj\Debug\Formularz.exe
+C:\Users\Uczeń\Desktop\Formularz\obj\Debug\Formularz.pdb
+C:\Users\Uczeń\Desktop\Formularz\obj\Debug\Formularz.exe.config
