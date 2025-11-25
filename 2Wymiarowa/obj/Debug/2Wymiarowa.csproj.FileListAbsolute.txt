@@ -1,0 +1,11 @@
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\bin\Debug\2Wymiarowa.exe.config
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\bin\Debug\2Wymiarowa.exe
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\bin\Debug\2Wymiarowa.pdb
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\obj\Debug\2Wymiarowa.csproj.AssemblyReference.cache
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\obj\Debug\_2Wymiarowa.Form1.resources
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\obj\Debug\_2Wymiarowa.Properties.Resources.resources
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\obj\Debug\2Wymiarowa.csproj.GenerateResource.cache
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\obj\Debug\2Wymiarowa.csproj.CoreCompileInputs.cache
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\obj\Debug\2Wymiarowa.exe
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\obj\Debug\2Wymiarowa.pdb
+C:\Users\Uczeń\Desktop\RandomGrid\2Wymiarowa\2Wymiarowa\obj\Debug\2Wymiarowa.exe.config
