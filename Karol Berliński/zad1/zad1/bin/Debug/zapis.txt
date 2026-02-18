@@ -1,0 +1,7 @@
+Nazwisko: Karol
+Uczelnia: Politechnik
+Tryb: DzienneNazwisko: Karol
+Uczelnia: Uniwersytet
+Tryb: ZaoczneNazwisko: karol
+Uczelnia: Medycyna
+Tryb: Zaoczne
